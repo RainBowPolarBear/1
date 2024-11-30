@@ -1,1 +1,5 @@
 my project code
+project developer list
+mr.kim
+mr.jun
+mr.mun
